@@ -14,3 +14,7 @@ body{
 #navbar{
 	background-color: aliceblue !important;
 }
+
+.fa{
+	color: #ffb606 !important;
+}
