@@ -10,3 +10,7 @@
 body{
 	background-color:  aliceblue !important;
 }
+
+#navbar{
+	background-color: aliceblue !important;
+}
