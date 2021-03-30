@@ -6,3 +6,7 @@
 .menu-item :hover{
 	text-decoration: underline !important;
 }
+
+body{
+	background-color:  aliceblue !important;
+}
