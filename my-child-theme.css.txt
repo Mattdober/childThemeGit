@@ -26,3 +26,8 @@ body{
 input, textarea{
 	border-radius: 10px !important;
 }
+
+body.home header#masthead, body:not(.home) header#masthead{
+	border-bottom-color: #ffb606 !important;
+	border-bottom-width: 4px !important;
+}
