@@ -22,3 +22,7 @@ body{
 .widget{
 	border-radius: 20px !important;
 }
+
+input, textarea{
+	border-radius: 10px !important;
+}
