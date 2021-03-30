@@ -2,3 +2,7 @@
 	color: #ffb606 !important;
 	font-size: 30px !important;
 }
+
+.menu-item :hover{
+	text-decoration: underline !important;
+}
