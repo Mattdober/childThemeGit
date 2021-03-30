@@ -35,3 +35,7 @@ body.home header#masthead, body:not(.home) header#masthead{
 .amount{
 	color: #ffb606 !important;
 }
+
+.onsale{
+	background: #ffb606 !important;
+}
