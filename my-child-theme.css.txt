@@ -31,3 +31,7 @@ body.home header#masthead, body:not(.home) header#masthead{
 	border-bottom-color: #ffb606 !important;
 	border-bottom-width: 4px !important;
 }
+
+.amount{
+	color: #ffb606 !important;
+}
