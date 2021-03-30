@@ -18,3 +18,7 @@ body{
 .fa{
 	color: #ffb606 !important;
 }
+
+.widget{
+	border-radius: 20px !important;
+}
